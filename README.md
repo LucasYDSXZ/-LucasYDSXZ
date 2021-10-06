@@ -1,4 +1,4 @@
-<img align="right" src="https://cdn.discordapp.com/attachments/809533527892688917/874804011117719553/viking_4.png" style="width:350px; height:350px; border: 50px; max-width:100%;">
+<img align="right" src="https://cdn.discordapp.com/attachments/887092120056369206/895436085948186664/latest.png" style="width:350px; height:350px; border: 50px; max-width:100%;">
 
 # 👋 Oi tudo bem espero que sim ...
 # Meu nome é Lucas Souza Rodrigues e tenho 13 anos! !tanjiro
